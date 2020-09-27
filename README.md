@@ -33,3 +33,13 @@ __This text will be bold__
 ![cat](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1565234972425/KNOWYOURMEME-sad-cat-crying-1120.jpg)
 
 [cat](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1565234972425/KNOWYOURMEME-sad-cat-crying-1120.jpg)
+
+# BLACKSLASH ESCAPES
+\*This is waring\*
+
+# CODE
+```python
+function alert(){
+ alert("Hello, world")
+}
+```
